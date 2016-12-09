@@ -11,4 +11,8 @@ class Application extends Controller {
     Ok("Your new application is ready.")
   }
 
+  def cleanup = Action {
+    Ok("Your database is clean")
+  }
+
 }
