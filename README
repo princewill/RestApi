@@ -18,7 +18,7 @@ Controllers
 
 - CountController.scala:
 
-  Shows how to inject a component into a controller and use the component when
+  Shows how to inject a component into a controllers and use the component when
   handling requests.
 
 Components
